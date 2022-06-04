@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ppiowy_'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = 'https://instagram.com'
+global.sgh = 'https://github.com/NdaaXD'
+global.sgc = 'https://chat.whatsapp.com/HhHDKEpxtyC8B1cj3KGhlS'
+global.sdc = 'https://discord.gg'
+global.snh = 'https://nhentai.net'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.pdana = '088239928939'
+global.povo = '-'
+global.pgopay = '088239928939'
+global.ppulsa = '088239928939'
+global.ppulsa2 = '088239928939'
+global.psaweria = 'https://saweria.com'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.nomorbot = '_'
+global.nomorown = '6288239928939'
+global.namebot = 'Ndaa BOT'
+global.nameown = 'Ndaa'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', 'LETTA ! 🐰', true]
+  ['6288239928939'],
+  ['6288239928939'],
+  ['6288239928939'],
+  ['6288239928939', 'Ndaa', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -116,13 +116,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm = '                「 Ndaa BOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ndaa - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Ndaa 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 Ƙαnnα BOT あ⁩ 」'
+global.author = '                「 Ndaa BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
